@@ -1,0 +1,9 @@
+SPRITE boss_sprite "sprite/boss.png" 5 6 FAST 5
+SPRITE bubble_sprite "sprite/bubble.png" 6 6 FAST 5
+SPRITE gameover_sprite "sprite/gameover.png" 6 6 FAST 5
+SPRITE number_sprite "sprite/numbers.png" 1 2 FAST 5
+SPRITE player_sprite "sprite/player.png" 6 6 FAST 5
+SPRITE score_sprite "sprite/score.png" 6 2 FAST 5
+SPRITE worker_sprite "sprite/worker.png" 6 6 FAST 5
+SPRITE worker2_sprite "sprite/worker2.png" 6 6 FAST 5
+SPRITE worker3_sprite "sprite/worker3.png" 6 6 FAST 5
